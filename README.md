@@ -8,3 +8,7 @@
 - [https://gitee.com/neria/web-mining/blob/master/week02-note.md](https://gitee.com/neria/web-mining/blob/master/week02-note.md)
 #### week02小结
 - [https://gitee.com/neria/web-mining/blob/master/week02%E5%B0%8F%E7%BB%93.md](https://gitee.com/neria/web-mining/blob/master/week02%E5%B0%8F%E7%BB%93.md)
+
+### week03的markdown文件
+
+- [https://gitee.com/neria/web-mining/blob/master/week03-note.md](https://gitee.com/neria/web-mining/blob/master/week03-note.md)
